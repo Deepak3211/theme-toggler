@@ -1,7 +1,6 @@
 import React,{useContext} from 'react';
 import ThemeContext from '../context/ThemeContext';
 import AppTheme from '../Color';
-import ThemeToggler from './ThemeToggler';
 
 const Sample = () => {
   const theme = useContext(ThemeContext)[0];
@@ -23,7 +22,7 @@ const Sample = () => {
         fontSize: '15px',
         color: 'whitesmoke',
         border: `${currentTheme.border}`
-      }}><ThemeToggler  /></button>
+      }}>Click me</button>
     </div>
   )
 }

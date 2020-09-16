@@ -1,7 +1,9 @@
 import React,{useState} from 'react';
+
 import ThemeContext from './context/ThemeContext';
-import Toggle from './Components/Toggle';
-import Sample from './Components/Sample'
+import {Toggle , Sample} from './Components'
+import './App.css';
+
 
 const App = () => {
   const themeHook = useState('light');
