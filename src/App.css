@@ -7,20 +7,26 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .moon{
-border: 2px solid whitesmoke;
+/* border: 2px solid whitesmoke; */
 border-radius: 1rem;
 font-size: 1.2rem;
 cursor: pointer;
+outline-style: none;
 }
+
 .moon:hover{
 transition: all 2s;
 background-color: ivory;
+
 }
 .sun{
-border: 2px solid whitesmoke;
+/* border: 2px solid whitesmoke; */
 border-radius: 1rem;
 font-size: 1.2rem;
 cursor: pointer;
+outline-style: none;
+
+
 }
 .sun:hover{
 transition: all 2s;
