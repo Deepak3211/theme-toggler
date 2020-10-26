@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/theme-toggler/static/css/main.6f471ca8.chunk.css",
-    "main.js": "/theme-toggler/static/js/main.cb8c81f7.chunk.js",
-    "main.js.map": "/theme-toggler/static/js/main.cb8c81f7.chunk.js.map",
+    "main.css": "/theme-toggler/static/css/main.77d674cd.chunk.css",
+    "main.js": "/theme-toggler/static/js/main.8e900e64.chunk.js",
+    "main.js.map": "/theme-toggler/static/js/main.8e900e64.chunk.js.map",
     "runtime-main.js": "/theme-toggler/static/js/runtime-main.fad457f1.js",
     "runtime-main.js.map": "/theme-toggler/static/js/runtime-main.fad457f1.js.map",
     "static/js/2.f72c6f58.chunk.js": "/theme-toggler/static/js/2.f72c6f58.chunk.js",
     "static/js/2.f72c6f58.chunk.js.map": "/theme-toggler/static/js/2.f72c6f58.chunk.js.map",
     "index.html": "/theme-toggler/index.html",
-    "precache-manifest.e868ca112cf98b579aa686035316ad42.js": "/theme-toggler/precache-manifest.e868ca112cf98b579aa686035316ad42.js",
+    "precache-manifest.a0629aff33f54d2d3a58e693d4c15ba2.js": "/theme-toggler/precache-manifest.a0629aff33f54d2d3a58e693d4c15ba2.js",
     "service-worker.js": "/theme-toggler/service-worker.js",
-    "static/css/main.6f471ca8.chunk.css.map": "/theme-toggler/static/css/main.6f471ca8.chunk.css.map",
+    "static/css/main.77d674cd.chunk.css.map": "/theme-toggler/static/css/main.77d674cd.chunk.css.map",
     "static/js/2.f72c6f58.chunk.js.LICENSE.txt": "/theme-toggler/static/js/2.f72c6f58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fad457f1.js",
     "static/js/2.f72c6f58.chunk.js",
-    "static/css/main.6f471ca8.chunk.css",
-    "static/js/main.cb8c81f7.chunk.js"
+    "static/css/main.77d674cd.chunk.css",
+    "static/js/main.8e900e64.chunk.js"
   ]
 }
