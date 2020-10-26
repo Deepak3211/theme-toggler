@@ -8,7 +8,7 @@ const Sample = () => {
   const [themeMode, setThemeMode]  = useContext(ThemeContext)
 
   return (
-    <div style = {{
+    <div className = 'sample' style = {{
       padding : '1rem',
       backgroundColor: `${currentTheme.backgroundColor}`,
       color : `${currentTheme.textColor}`,
