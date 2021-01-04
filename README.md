@@ -1,11 +1,19 @@
 
-> Live Demo [theme_toggler](https://deepak3211.github.io/random_password_generator/)
+> Live Demo [theme_toggler](https://deepak3211.github.io/theme-toggler/)
+
+
+
+
+
+
+
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-# LINK https://deepak3211.github.io/theme-toggler/
 ## Available Scripts
 
 In the project directory, you can run:
